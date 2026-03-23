@@ -1,5 +1,13 @@
 #!/bin/bash
 
+
+
+<< help
+This is a shell script to  take backups
+can also be used with crone
+
+help
+
 <<info
 This shell script wil take periodic backups
 
